@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+  <title>ToDay</title>
+
+  <!-- jQuery -->
+  <script src="https://code.jquery.com/jquery-2.2.3.js"></script>
+
+  <!-- Sortable -->
+  <script src="http://rubaxa.github.io/Sortable/Sortable.js"></script>
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.4/css/bootstrap.min.css" integrity="sha384-2hfp1SzUoho7/TsGGGDaFdsuuDL0LX2hnUp6VkX3CUQ2K4K+xjboZdsXyp4oUHZj" crossorigin="anonymous">
+
+  <!-- our CSS -->
+  <link rel="stylesheet" href="css/styles.css"/>
+
+</head>
+
+<body>
+  <header class="jumbotron">
+    <h1>ToDay</h1>
+    <p>(A simple task list.)</p>
+  </header>
+
+  <main>
+    <div id="instructions">
+      <p>Add things you want to do by typing in the textbox.
+      <br>Use the 'ToDone' button to remove all complete events.
+      <br>You can reorder events by dragging and dropping.</p>
+    </div>
+    <!-- A section for the things on the ToDo list -->
+    <div class="col-sm-6">
+      <div id="eventstuff">
+        <h6>What you want to do:</h6>
+        <ul id="events" id="sortable">
+          <!-- <li><button class="btn btn-primary">Take out the trash</button></li>
+          <li><button class="btn btn-primary">Go to the gym</button></li> -->
+        </ul>
+      </div>
+
+      <!-- A section for the add event form, which is always showing -->
+      <div id="addstuff">
+        <form id="add-event-form">
+          <input type="text" id="eventbox"/>
+        </form>
+      </div>
+    </div>
+
+    <div class="col-sm-6">
+      <div id="completestuff">
+        <h6>What you've done:</h6>
+        <ul id="completes">
+          <!-- <li><button class="btn btn-danger">Walk in the park</button></li>
+          <li><button class="btn btn-danger">Commit changes to github</button></li> -->
+        </ul>
+      </div>
+
+      <div id="clearall">
+        <button class="btn" id="clearall">ToDone</button>
+      </div>
+    </div>
+
+
+  </main>
+
+  <script src="scripts/today.js"></script>
+</body>
+</html>

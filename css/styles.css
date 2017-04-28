@@ -1,0 +1,56 @@
+.jumbotron {
+  background: orange;
+  padding: 1%;
+  margin: 1%
+}
+
+header {
+  color: white;
+}
+
+body {
+  text-align: center;
+}
+
+div {
+  align-items: center;
+}
+
+ul {
+  margin-right: 40px;
+}
+
+li {
+  justify-content: left;
+}
+
+.btn {
+  border: 1px solid orange;
+  margin: 1px;
+}
+
+#eventstuff {
+    /*background:  #014c8c;*/
+    margin: 0em 10% 2em 10%;
+    border-radius: 5px;
+    /*color: white;*/
+}
+
+#events {
+  list-style-type: none;
+}
+
+#eventbox {
+  margin-bottom: 2em;
+}
+
+#completestuff {
+  /*color: white;
+  background: #ae433f;*/
+  margin: 0em 10% 2em 10%;
+  border-radius: 5px;
+}
+
+#completes {
+  list-style-type: none;
+}
