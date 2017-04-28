@@ -133,7 +133,7 @@ $(document).ready(() => {
   });
 
   // Makes Events and Completes Sortable
-  var el = document.getElementById('events');
+  var el = document.getElementById('events', 'completes');
   var sortable = Sortable.create(el);
   var ell = document.getElementById('completes');
   var sortable = Sortable.create(ell);
