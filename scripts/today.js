@@ -33,6 +33,7 @@ function render() {
 
     // creates each ToDo item element
     var eventElement = $('<li></li>')
+      .attr('class', 'btn-group btn-block');
     var buttonElement = $('<button></button>')
       .text(event.event)
       .attr('class', 'btn btn-default')
@@ -77,6 +78,7 @@ function render() {
   model.completes.forEach(function(complete) {
     // creates each complete item element
     var completeElement = $('<li></li>')
+      .attr('class', 'btn-group btn-block');
 
     var delButton = $('<button></button>')
       .attr('class', 'btn btn-danger')
@@ -155,6 +157,8 @@ function render() {
 
     // creates each upcoming item element
     var upcomingElement = $('<li></li>')
+      .attr('class', 'btn-group btn-block');
+
     var btnElement = $('<button></button>')
       .text(upcoming.event)
       .attr('class', 'btn btn-default')
@@ -218,6 +222,7 @@ $(document).ready(() => {
 
     // renders page
     render();
+    
   });
 
   // when the add upcoming event form is submitted
