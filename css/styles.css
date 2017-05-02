@@ -1,7 +1,9 @@
 .jumbotron {
-  background: orange;
+  color: white;
+  background: #337ab7;;
   padding: 1%;
-  margin: 1%
+  margin: 1%;
+  border-radius: 5px;
 }
 
 header {
@@ -17,27 +19,27 @@ div {
 }
 
 ul {
-  margin-right: 40px;
+  padding: 0;
+  list-style-type: none;
 }
 
 li {
   justify-content: left;
+  overflow-wrap: normal;
 }
 
 .btn {
-  border: 1px solid orange;
   margin: 1px;
+  max-width: 100%;
+  white-space: normal;
 }
 
 #eventstuff {
-    /*background:  #014c8c;*/
-    margin: 0em 10% 2em 10%;
     border-radius: 5px;
-    /*color: white;*/
 }
 
 #events {
-  list-style-type: none;
+  /*list-style-type: none;*/
 }
 
 #eventbox {
@@ -45,9 +47,6 @@ li {
 }
 
 #completestuff {
-  /*color: white;
-  background: #ae433f;*/
-  margin: 0em 10% 2em 10%;
   border-radius: 5px;
 }
 

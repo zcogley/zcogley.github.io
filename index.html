@@ -10,8 +10,8 @@
   <!-- Sortable -->
   <script src="https://rubaxa.github.io/Sortable/Sortable.js"></script>
 
-  <!-- Bootstrap CSS -->
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.4/css/bootstrap.min.css" integrity="sha384-2hfp1SzUoho7/TsGGGDaFdsuuDL0LX2hnUp6VkX3CUQ2K4K+xjboZdsXyp4oUHZj" crossorigin="anonymous">
+  <!-- Latest compiled and minified Bootstrap CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
   <!-- our CSS -->
   <link rel="stylesheet" href="css/styles.css"/>
@@ -21,23 +21,25 @@
 
 <body>
   <header class="jumbotron">
-    <h1>ToDay</h1>
-    <p>(A simple task list.)</p>
+    <h1>Oggi</h1>
+    <p>A simple task list.</p>
   </header>
 
   <main>
     <div id="instructions">
       <p>Add things you want to do by typing in the textbox.
-      <br>Use the 'ToDone' button to remove all complete events.
-      <br>You can reorder events by dragging and dropping.</p>
+      <br>The trash icon for each event removes it from the list.
+      <br>You can reorder events by dragging and dropping.
+      <br>The check icon marks each event as done.
+      <br>Use the 'Finito' button to remove everything you've done.
+      </p>
     </div>
     <!-- A section for the things on the ToDo list -->
-    <div class="col-sm-6">
+
+    <div class="col-sm-4">
       <div id="eventstuff">
-        <h6>What you want to do:</h6>
+        <h4>Today:</h4>
         <ul id="events" id="sortable">
-          <!-- <li><button class="btn btn-primary">Take out the trash</button></li>
-          <li><button class="btn btn-primary">Go to the gym</button></li> -->
         </ul>
       </div>
 
@@ -49,19 +51,33 @@
       </div>
     </div>
 
-    <div class="col-sm-6">
+    <div class="col-sm-4">
+      <div id="comingup">
+        <h4>Soon:</h4>
+        <ul id="upcomings" id="sortable">
+        </ul>
+      </div>
+
+      <!-- A section for the coming up events -->
+      <div id="upcomingstuff">
+        <form id="add-upcoming-form">
+          <input type="text" id="comingupbox"/>
+        </form>
+      </div>
+    </div>
+
+    <div class="col-sm-4">
       <div id="completestuff">
-        <h6>What you've done:</h6>
+        <h4>Done:</h4>
         <ul id="completes" id="sortable">
-          <!-- <li><button class="btn btn-danger">Walk in the park</button></li>
-          <li><button class="btn btn-danger">Commit changes to github</button></li> -->
         </ul>
       </div>
 
       <div id="clearall">
-        <button class="btn" id="clearall">ToDone</button>
+        <button class="btn" id="clearall">Finito</button>
       </div>
     </div>
+
 
 
   </main>
