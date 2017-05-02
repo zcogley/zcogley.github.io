@@ -35,7 +35,7 @@ li {
 }
 
 #eventstuff {
-    border-radius: 5px;
+    /*border-radius: 5px;*/
 }
 
 #events {
@@ -43,13 +43,13 @@ li {
 }
 
 #eventbox {
-  margin-bottom: 2em;
+  /*margin-bottom: 2em;*/
 }
 
 #completestuff {
-  border-radius: 5px;
+  /*border-radius: 5px;*/
 }
 
 #completes {
-  list-style-type: none;
+  /*list-style-type: none;*/
 }

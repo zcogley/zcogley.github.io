@@ -124,7 +124,7 @@ function render() {
 
   var clearButton = $('<button></button>')
     .text('Finito')
-    .attr('class', 'btn')
+    .attr('class', 'btn btn-primary')
     .click(function() {
       model.completes = [];
       render();
