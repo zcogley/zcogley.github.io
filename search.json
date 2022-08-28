@@ -11,20 +11,62 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Before every class meeting, I require students to respond to the readings by submitting posts to the course website that seek clarification about or challenge a claim in the assigned readings. This enables me to tailor discussion of the material to student difficulties and interests. I spend class time walking students through how to write an analytical paper and show them how to think of objections and replies that need to be considered. This means students are able to do original thinking and provide argumentation that does not just parrot the material they have read. Further, I always require students to write rough drafts and participate in peer review before submitting their final drafts. Students are more motivated when their peers will see their work, and the chance to revise with peer feedback always makes their work better. I emphasize that revising is more than just making editorial changes. Real revising can require tearing a paper apart to get at its central argument and then rewriting the paper around a new line of reasoning. By the end of the term, students make significant progress in writing a clear and forcefully argued philosophy paper.\nTo further assist in digesting the difficult source material and to supplement our weekly class meetings, I offer video webcasts of all course meetings for students to review. If students fail to grasp a point in class, they can review the class meeting later. The webcasts are also beneficial because students who have to miss class can easily review what they missed. I find that questions in office hours are more focused on a deeper understanding of the material when students review the lectures before we meet. Finally, using the video feeds helps me to improve my pedagogy by giving me a student’s view of my classroom.\nBy structuring assignments and classroom interaction in these ways, I aim to create an environment where I inculcate in students an appreciation for and an interest in philosophy, help them achieve clarity in their thoughts and writing, facilitate students’ understanding of the arguments relevant to an issue, and model respect for others and their ideas."
+    "text": "I’ve been fortunate to have the opportunity to teach outstanding students at Northern Michigan University, UCLA, The Ohio State University, and University of Cincinnati. Practice making complex philosophical concepts accessible to students jump started my ability to translate between techinical experts and clients without substantial technical background."
   },
   {
     "objectID": "research.html",
     "href": "research.html",
-    "title": "Research",
+    "title": "Philosophical Research",
     "section": "",
-    "text": "My philosophical researched aims to articulate a comprehensive theory of moral responsibility: an account of the nature and norms of holding people morally responsible. I approach these issues with a distinctive, interdisciplinary methodology. I maintain that any adequate theory of moral responsibility must attend to philosophical argument as well as results from the empirical sciences. In my published work I solve a vexing problem for extant accounts of trust, invoke psychological work on the blaming emotions to show that we have several different conceptions of moral responsibility, pull from a variety of empirical and philosophical sources to develop a nuanced account of angry virtue and vice, articulate the grounds on which emotions like resentment and indignation are deserved by their targets, develop a plausible theory of punishment’s justification, and explain how forgiveness can be both possible and warranted."
+    "text": "REFEREED JOURNAL ARTICLES\n\nForgiveness and the Multiple Functions of Anger. 2019. With Aumann, Antony G. Journal of Philosophy of Emotion 1, no. 1: 44-71. Audio Archive at PhilPapers\nFortifying the Self-Defense Justification of Punishment. 2017. Public Affairs Quarterly, 31.4, October. Archive at PhilPapers\nRolling Back the Luck Problem for Libertarianism. 2015. Journal of Cognition and Neuroethics 3, no. 1: 121–37. Archive at PhilPapers\nBasic Desert of Reactive Emotions. 2013. Philosophical Explorations 16, no. 2: 165–77. Reprinted in Basic Desert, Reactive Attitudes and Free Will, edited by Maureen Sie and Derk Pereboom, 69-81. New York: Routledge, 2016. Archive at PhilPapers\nTrust and the Trickster Problem. 2012. Analytic Philosophy 53, no. 1: 30–47. Archive at PhilPapers\n\n\n\nCHAPTERS IN EDITED COLLECTIONS\n\nContempt’s Evaluative Presentation and Connection to Accountability. 2018. In The Moral Psychology of Contempt. Michelle Mason, ed. Lanham, MD, Rowman and Littlefield. Archive at PhilPapers\nA Study of Virtuous and Vicious Anger. 2014. In Virtues and Their Vices, edited by Kevin Timpe and Craig Boyd, 199–224. New York: Oxford University Press. Archive at PhilPapers\nThe Three-Fold Significance of the Blaming Emotions. 2013. In Oxford Studies in Agency and Responsibility, edited by David Shoemaker, 205–24. New York: Oxford University Press. Archive at PhilPapers\n\n\n\nBOOK REVIEWS\n\nReview of Manuel Vargas’s Building Better Beings: A Theory of Moral Responsibility. Social Theory and Practice, 2016. Archive at PhilPapers\nReview of Michael McKenna’s Conversation and Responsibility. Philosophy in Review, 2013. Archive at PhilPapers\nReview of Tamler Sommers’ Relative Justice: Cultural Diversity, Free Will, and Moral Responsibility. Notre Dame Philosophical Reviews, 2012. Archive at PhilPapers"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Zac Cogley",
     "section": "",
-    "text": "My move to industry from academia was facilitated by completing LC101 from LaunchCode. My LC101 training was huge and I’ve used it to build a web app that helps you track your tasks and solve numerous problems with bespoke solutions for clients.\nPrior to my work in industry, I taught courses in Ethics (including Computer, Legal, Business, and Medical Ethics) as well as Social and Political Philosophy, and interdisciplinary courses on Emotion. For more details, see my Teaching page.\nAdditionally, I’ve published work on moral responsibility, punishment, emotion, technology, and related issues. For more, see my Research page.\nFinally, a brief educational history: I received my BA from St. Louis University, my MA from the University of Cincinnati, and my PhD from The Ohio State University."
+    "text": "My move to industry from academia was facilitated by completing LC101 from LaunchCode. I’ve used my LC101 training and additional work in python, pandas, nad numpy to solve numerous problems for clients with bespoke solutions.\nPrior to my work in industry, I taught courses in Ethics (including Computer, Emerging Technology, Legal, Business, and Medical Ethics) as well as Social and Political Philosophy, and interdisciplinary courses on Emotion. For more details, see my Teaching page.\nAdditionally, I’ve published work on moral responsibility, punishment, emotion, technology, and related issues. For more, see my Research page or my PhilPeople page, linked below.\nFinally, a brief educational history: I received my BA from St. Louis University, my MA from University of Cincinnati, and my PhD from The Ohio State University."
+  },
+  {
+    "objectID": "teaching.html#upper-level-courses",
+    "href": "teaching.html#upper-level-courses",
+    "title": "Teaching",
+    "section": "UPPER LEVEL COURSES",
+    "text": "UPPER LEVEL COURSES\n\nNMU\n\nPhilosophy of Mind\nMoral Responsibility, Free Will, and Punishment\nAncient and Medieval Philosophy\nPhilosophy and Psychology of Emotion\nPhilosophy and Psychology of Emotion (Honors)\nSocial and Political Philosophy\n\n\n\nUCLA\n\nMedical Ethics\nSociety and Morals\nEarly Modern Political Philosophy\nPhilosophy of Law\n\n\n\nOSU\n\nContemporary Social and Moral Problems in the United States"
+  },
+  {
+    "objectID": "teaching.html#introductory-level-courses",
+    "href": "teaching.html#introductory-level-courses",
+    "title": "Teaching",
+    "section": "INTRODUCTORY LEVEL COURSES",
+    "text": "INTRODUCTORY LEVEL COURSES\n\nNMU\n\nIntroduction to Logic\nFundamentals of Ethical Theory\nIssues in Legal Ethics\nIssues in Business Ethics\nIssues in Medical Ethics\nIssues in Computer Ethics\n\n\n\nUCLA\n\nIntroduction to Ethical Theory\n\n\n\nOhio State\n\nIntroduction to Ethics\nPolitical and Social Philosophy\n\n\n\nCincinnati\n\nIntroduction to Ethics"
+  },
+  {
+    "objectID": "teaching.html#teaching-assistant",
+    "href": "teaching.html#teaching-assistant",
+    "title": "Teaching",
+    "section": "TEACHING ASSISTANT",
+    "text": "TEACHING ASSISTANT\n\nOhio States\n\nPhilosphy of Law\nAncient Greek Philosophy\nPhilosophy of Religion\nSymbolic Logic\nProbability, Data, and Decision Making\nIntroduction to Philosophy\n\n\n\nCincinnati\nSymbolic Logic"
+  },
+  {
+    "objectID": "teaching.html#upper-level",
+    "href": "teaching.html#upper-level",
+    "title": "Teaching",
+    "section": "UPPER LEVEL",
+    "text": "UPPER LEVEL\n\nNMU\n\nPhilosophy of Mind\nMoral Responsibility, Free Will, and Punishment\nAncient and Medieval Philosophy\nPhilosophy and Psychology of Emotion\nPhilosophy and Psychology of Emotion (Honors)\nSocial and Political Philosophy\n\n\n\nUCLA\n\nMedical Ethics\nSociety and Morals\nEarly Modern Political Philosophy\nPhilosophy of Law\n\n\n\nOSU\n\nContemporary Social and Moral Problems in the United States"
+  },
+  {
+    "objectID": "teaching.html#introductory-level",
+    "href": "teaching.html#introductory-level",
+    "title": "Teaching",
+    "section": "INTRODUCTORY LEVEL",
+    "text": "INTRODUCTORY LEVEL\n\nNMU\n\nIntroduction to Logic\nFundamentals of Ethical Theory\nIssues in Legal Ethics\nIssues in Business Ethics\nIssues in Medical Ethics\nIssues in Computer Ethics\n\n\n\nUCLA\n\nIntroduction to Ethical Theory\n\n\n\nOhio State\n\nIntroduction to Ethics\nPolitical and Social Philosophy\n\n\n\nCincinnati\n\nIntroduction to Ethics"
+  },
+  {
+    "objectID": "research.html#refereed-journal-articles",
+    "href": "research.html#refereed-journal-articles",
+    "title": "Research",
+    "section": "REFEREED JOURNAL ARTICLES",
+    "text": "REFEREED JOURNAL ARTICLES\n\n“Fortifying the Self-Defense Justification of Punishment.” 2017. Public Affairs Quarterly, 31.4, October.\n“Rolling Back the Luck Problem for Libertarianism.” 2015. Journal of Cognition and Neuroethics 3, no. 1: 121–37.\n“Basic Desert of Reactive Emotions.” 2013. Philosophical Explorations 16, no. 2: 165–77. Reprinted in Basic Desert, Reactive Attitudes and Free Will, edited by Maureen Sie and Derk Pereboom, 69-81. New York: Routledge, 2016.\n“Trust and the Trickster Problem.” 2012. Analytic Philosophy 53, no. 1: 30–47.\n\nCHAPTERS IN EDITED COLLECTIONS “Contempt’s Evaluative Presentation and Connection to Accountability.” 2018. In The Moral Psychology of Contempt. Michelle Mason, ed. Lanham, MD, Rowman and Littlefield. “A Study of Virtuous and Vicious Anger.” 2014. In Virtues and Their Vices, edited by Kevin Timpe and Craig Boyd, 199–224. New York: Oxford University Press. “The Three-Fold Significance of the Blaming Emotions.” 2013. In Oxford Studies in Agency and Responsibility, edited by David Shoemaker, 205–24. New York: Oxford University Press.\nBOOK REVIEWS Review of Manuel Vargas’s Building Better Beings: A Theory of Moral Responsibility. Social Theory and Practice, 2016. Review of Michael McKenna’s Conversation and Responsibility. Philosophy in Review, 2013. Review of Tamler Sommers’ Relative Justice: Cultural Diversity, Free Will, and Moral Responsibility. Notre Dame Philosophical Reviews, 2012."
   }
 ]
