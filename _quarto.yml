@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Zac Cogley"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - teaching.qmd
+      - research.qmd
+  open-graph: true
+  google-analytics: 
+    tracking-id: "UA-8707057-1"
+    anonymize-ip: true
+
+format:
+  html:
+    theme: 
+      light: cosmo
+      dark: [cosmo, _site/theme-dark.scss]
+    css: styles.css
+    toc: true
+
+
+
+

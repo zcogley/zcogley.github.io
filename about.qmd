@@ -1,0 +1,31 @@
+---
+title: "About"
+about:
+  template: solana
+  image: index_files/zacfullres.small.png
+#   image-width: 10em
+  image-shape: round
+  links:
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/zaccogley/
+    - icon: github
+      text: Github
+      href: https://github.com/zcogley
+    - icon: file-earmark-text
+      text: PhilPeople
+      href: https://philpeople.org/profiles/zac-cogley/
+---
+
+I'm a Senior Solutions Consultant and AI Ethicist at [Spectrum Labs](https://spectrumlabsai.com){target="_blank"}, a leading Natural Language Understanding AI company whose mission is to make the Internet a safer and more valuable place for all. At Spectrum, I work with the Solutions, Product, and Data Science teams to ensure Spectrum Labs customers — who span gaming, social media, dating apps and brands — utilize all of Spectrum’s features to keep their online communities safe. 
+
+Before coming to Spectrum, I was previously Director of Customer Success at [Balto](https://balto.ai){target="_blank"}, Associate Professor at [Northern Michigan University](https://nmu.edu){target="_blank"}, and Lecturer at [UCLA](https://ucla.edu){target="_blank"}.
+
+My move to industry from academia was facilitated by completing [LC101](https://www.launchcode.org/lc101){target="_blank"} from [LaunchCode](http://www.launchcode.org){target="_blank"}. I've used my LC101 training and additional work in python, pandas, and numpy to solve numerous problems for clients with bespoke solutions. 
+
+Prior to my work in industry, I taught courses in Ethics (including Computer, Emerging Technology, Legal, Business, and Medical Ethics) as well as Social and Political Philosophy, and interdisciplinary courses on Emotion. For more details, see my [Teaching](teaching.qmd) page. 
+
+Additionally, I've published work on moral responsibility, punishment, emotion, technology, and related issues. For more, see my [Research](research.qmd) page.
+
+Finally, a brief educational history: I received my BA from [St. Louis University](https:www.slu.edu){target="_blank"}, my MA from [University of Cincinnati](https://www.uc.edu){target="_blank"}, and my PhD from [The Ohio State University](https://www.osu.edu){target="_blank"}.
+
