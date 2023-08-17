@@ -1,1 +1,8 @@
 /.quarto/
+_quarto.yml
+about.qmd
+/index_files/
+index.qmd
+research.qmd
+styles.css
+teaching.qmd
