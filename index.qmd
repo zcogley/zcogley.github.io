@@ -9,5 +9,3 @@ I'm a technologist and philospher who loves working at the intersection of peopl
 <span style="font-size:12px"> 
 The page is rendered with the Cosmo theme using [Quarto](https://quarto.org/docs/websites) and served via [GitHub Pages](https://pages.github.com). 
 </span>
-
-TEST
