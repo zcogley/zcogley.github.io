@@ -1,12 +1,1 @@
 /* css styles */
-
-/* Keep the About profile aligned with the site's standard text column. */
-div.quarto-about-solana .entity-contents {
-  text-align: left;
-}
-
-@media (max-width: 991.98px) {
-  div.quarto-about-solana .about-contents {
-    padding-right: 0;
-  }
-}
